@@ -1,0 +1,4 @@
+To run frontend use following commands:
+cd frontend,
+npm i,
+npm start
