@@ -1,0 +1,1 @@
+# VendorScout-5th-Sem-SGP
